@@ -1,0 +1,21 @@
+.box{
+    height: 4rem;
+}
+.img{
+    display: block;
+    margin: auto;
+    height: 50rem;
+    width: 80rem;
+}
+.margine{
+    width: 80%;
+    background-color: cadetblue;
+    margin: auto;
+    padding: 2rem;
+}
+.margine1{
+    width: 90%;
+    background-color: blue;
+    margin: auto;
+    padding: 1rem;
+}
